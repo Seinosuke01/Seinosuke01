@@ -4,7 +4,7 @@
   <a href="https://github.com/Seinosuke01/Seinosuke01/">
     <img src="https://komarev.com/ghpvc/?username=Seinosuke01" alt="Seinosuke01" />
   </a>
-  <a href="https://x.com/morinosuke361">
+  <a href="https://twitter.com/morinosuke361">
     <img height="20" src="https://img.shields.io/twitter/follow/Seinosuke01?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Seinosuke01">
