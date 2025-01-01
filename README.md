@@ -13,12 +13,10 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Seinosuke01&count_private=true&show_icons=true&theme=react&bg_color=330000&title_color=ff5555&text_color=ffaaaa&icon_color=ff7777&border_color=aa0000" />
-</a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Seinosuke01&count_private=true&show_icons=true&theme=react" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seinosuke01&count_private=true&theme=react&bg_color=330000&title_color=ff5555&text_color=ffaaaa&icon_color=ff7777&border_color=aa0000" />
-</a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seinosuke01&count_private=true&theme=react" />
 
 
 
