@@ -1,4 +1,4 @@
-## Hi there 👋
+## If you smile, I'm happy ❤️
 
 <p align="left">
   <a href="https://github.com/Seinosuke01/Seinosuke01/">
