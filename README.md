@@ -4,9 +4,6 @@
   <a href="https://github.com/Seinosuke01/Seinosuke01/">
     <img src="https://komarev.com/ghpvc/?username=Seinosuke01" alt="Seinosuke01" />
   </a>
-  <a href="https://twitter.com/morinosuke361">
-    <img height="20" src="https://img.shields.io/twitter/follow/Seinosuke01?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/Seinosuke01">
     <img height="20" src="https://img.shields.io/github/followers/Seinosuke01?label=follow&logo=github&style=flat" />
   </a>
@@ -14,6 +11,13 @@
     <img src="https://badgen.org/img/zenn/powersei45/likes?style=plastic" alt="Likes" />
   </a>
 </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Seinosuke01&count_private=true&show_icons=true&theme=react" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seinosuke01&count_private=true&theme=react" />
+
 
 
 
