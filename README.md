@@ -10,5 +10,10 @@
   <a href="https://github.com/Seinosuke01">
     <img height="20" src="https://img.shields.io/github/followers/Seinosuke01?label=follow&logo=github&style=flat" />
   </a>
+  <a href="https://zenn.dev/powersei45">
+    <img src="https://badgen.org/img/zenn/powersei45/likes?style=plastic" alt="Likes" />
+  </a>
 </p>
+
+
 
